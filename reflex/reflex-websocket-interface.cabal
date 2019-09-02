@@ -33,6 +33,7 @@ library
     , containers
     , reflex-websocket-interface-shared
     , these
+    , semialign
   default-language:    Haskell2010
   ghc-options: -fno-warn-missing-signatures
 
